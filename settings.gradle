@@ -1,0 +1,3 @@
+// đặt tại FpsMaster/settings.gradle
+rootProject.name = "FPS Master"
+include ':app'
